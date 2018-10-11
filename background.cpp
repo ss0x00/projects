@@ -5,11 +5,7 @@ void bg();
 
 int main(void)
 {
-	int i;
-	for(i=0; i<10; i++)
-	{
-		bg();
-	}
+	bg();
 	
 	return 0;
 }
