@@ -16,8 +16,8 @@ exe 실행파일이 chrome에서 다운로드가 안되는 경우 Internet Explo
                                Instagram ID : ss0x00
                                
                                KakaoTalk ID : ss0x00
-                         
-                         Tistory Link : ss0x00.tistory.com
+                       
+                     Tistory Link : https://www.ss0x00.tistory.com
                          
    Youtube : https://www.youtube.com/channel/UCsTOh_Bu3ouNkKmiBxhiF9A?view_as=subscriber
 --------------------------------------------------------------------------------------------
